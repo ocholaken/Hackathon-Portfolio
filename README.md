@@ -25,4 +25,54 @@ Welcome to the **official portfolio of Kane Ochola** — a fusion of brilliance 
 ---
 
 ## 📁 Project Structure
+📦 Hackathon-Portfolio/
+├── index.html # Core HTML structure
+├── index.css # Styling, responsiveness, animations
+├── resume.pdf # Downloadable résumé
+├── assets/ # Images, icons, fonts
+
+
+---
+
+## 🧠 About the Creator
+
+**Kane Ochola** — a hybrid professional blending psychological insight with digital innovation. Diploma in **Psychological Counseling**. Certificate in **Software Engineering**. Passionate about youth empowerment, elegant design, and human-centered development.
+
+---
+
+## ⚙️ How to Run Locally
+
+1. Clone the repo or download ZIP  
+2. Open `index.html` in your browser  
+3. No frameworks, no setup — just pure front-end magic
+
+---
+
+## 📫 Contact
+
+- **Email:** ocholakenna1@gmail.com  
+- **Location:** Yala, Siaya County, Kenya  
+- **Socials:** Linked in the footer of the live site
+
+---
+
+> 🏆 _This isn’t just a portfolio — it’s a power move._
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
